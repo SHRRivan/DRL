@@ -1,4 +1,4 @@
-## Deep Reinforcement Learning Algorithms
+## DRL algorithms implementation for DQN, DDPG, TD3, A2C and PPO.
 ## Now that this my library has algorithms like:
 [Deep-Q Learning(DQN)];
 [Deep Determined Policy Gradient(DDPG)];
