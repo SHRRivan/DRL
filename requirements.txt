@@ -1,0 +1,17 @@
+gym == 0.21.0
+torch == 1.9.0
+numpy == 1.24.1
+pillow == 9.4.0
+cloudpickle == 1.6.0
+
+
+# For Atari games
+scipy == 1.10.0
+ale-py == 0.7.4
+psutil == 5.9.4
+pyglet == 1.5.27
+
+
+# For AirSim Environment
+airsim == 1.8.1
+msgpack-python == 0.5.6
